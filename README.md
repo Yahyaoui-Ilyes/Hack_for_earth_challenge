@@ -1,6 +1,6 @@
-# Hack 4 Earth Challenge<br>
+# Hack 4 Earth<br>
 
-[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yahyaoui-elyes/Hack_for_earth_challenge/HEAD)
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yahyaoui-elyes/Hack_for_earth/HEAD)
 
 Each year, thousands of fires blaze across the African continent. Some are natural occurrences, part of a ‘fire cycle’ that can actually benefit some dryland ecosystems. Many are started intentionally, used to clear land or to prepare fields for planting. And some are wildfires, which can rage over large areas and cause huge amounts of damage. Whatever the cause, fires pour vast amounts of CO2 into the atmosphere, along with smoke that degrades air quality for those living downwind.
 
